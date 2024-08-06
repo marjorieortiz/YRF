@@ -1,9 +1,7 @@
-Nombre;Apellido;Universidad;Edad
-Odalis;Clemente;UNEMI;25
-Mateo;Morales;PUCE;24
-Karen;Ortega;UNAE;24
-Juan Xavier;Pozo;USFQ;24
-Jean Carlos;MuÃ±oz;UNESUM;21
-
-
-
+Nombre,Apellido,Universidad,Edad
+Odalis,Clemente,UNEMI,25
+Mateo,Morales,PUCE,24
+Karen,Ortega,UNAE,24
+Juan Xavier,Pozo,USFQ,24
+Jean Carlos,Muñoz,UNEMI,21
+Ana Belen,Marcillo,UDLA,26
