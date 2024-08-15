@@ -7,4 +7,4 @@ Este es el repositorio que hice para practicar Git y GitHub
 
 **Fecha:** 2 de agosto de 2024
 
-(patito feo cuento.jpg)
+![Patito feo](patito feo cuento.jpg)
